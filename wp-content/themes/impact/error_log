@@ -1,0 +1,4 @@
+[05-Feb-2020 13:51:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/tka333/ta-dev01.net/impact/wp-content/themes/impact/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/tka333/ta-dev01.net/impact/wp-content/themes/impact/index.php on line 1
